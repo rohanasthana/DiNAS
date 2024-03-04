@@ -1,0 +1,6 @@
+name: 'nasbenchHW'           
+datadir: 'src/datasets/HW_NAS_Bench/'
+remove_h: True
+random_subset: null
+pin_memory: False
+dataset: 'ImageNet16-120'

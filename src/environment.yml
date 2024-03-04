@@ -1,0 +1,4 @@
+name: digress2
+channels:
+  - defaults
+prefix: /home/asthana/psi4conda/envs/digress2

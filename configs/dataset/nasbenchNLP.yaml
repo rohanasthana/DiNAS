@@ -1,0 +1,6 @@
+name: 'nasbenchNLP'           
+datadir: 'src/datasets/NASBenchNLP/'
+remove_h: True
+random_subset: null
+pin_memory: False
+dataset: 'cifar10'

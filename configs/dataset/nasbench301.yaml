@@ -1,0 +1,6 @@
+name: 'nasbench301'           
+datadir: 'src/datasets/NASBench301/'
+remove_h: True
+random_subset: null
+pin_memory: False
+dataset: 'cifar10'

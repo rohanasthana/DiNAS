@@ -1,0 +1,5 @@
+name: 'nasbench101'           
+datadir: 'data/nasbench101_samples/'
+remove_h: True
+random_subset: null
+pin_memory: False
