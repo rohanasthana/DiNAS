@@ -19,7 +19,7 @@ To get started with the DiNAS project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/rohanasthana/DiNAS.git`
 2. Load the conda environment 'environment.yml' using the command `conda env create -f environment.yml`
-3. Run the training process: `python main-reg-free.py --dataset nasbench101`
+3. Run the training process: `python main_reg_free.py --dataset nasbench101`
 
 
 ## License
