@@ -2,6 +2,11 @@
 
 This repository contains the code for the paper titled "Multi-conditioned Graph Diffusion for Neural Architecture Search" [\[link\]](https://openreview.net/forum?id=5VotySkajV).
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-conditioned-graph-diffusion-for-neural/neural-architecture-search-on-nas-bench-101)](https://paperswithcode.com/sota/neural-architecture-search-on-nas-bench-101?p=multi-conditioned-graph-diffusion-for-neural)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-conditioned-graph-diffusion-for-neural/neural-architecture-search-on-nas-bench-201-1)](https://paperswithcode.com/sota/neural-architecture-search-on-nas-bench-201-1?p=multi-conditioned-graph-diffusion-for-neural)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-conditioned-graph-diffusion-for-neural/neural-architecture-search-on-nas-bench-201-2)](https://paperswithcode.com/sota/neural-architecture-search-on-nas-bench-201-2?p=multi-conditioned-graph-diffusion-for-neural)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-conditioned-graph-diffusion-for-neural/neural-architecture-search-on-nas-bench-301)](https://paperswithcode.com/sota/neural-architecture-search-on-nas-bench-301?p=multi-conditioned-graph-diffusion-for-neural)
+
 
 ## Abstract
  Neural architecture search automates the design of neural network architectures usually by exploring a large and thus complex architecture search space. To advance the architecture search, we present a graph diffusion-based NAS approach that uses discrete conditional graph diffusion processes to generate high-performing neural network architectures. We then propose a multi-conditioned classifier-free guidance approach applied to graph diffusion networks to jointly impose constraints such as high accuracy and low hardware latency. Unlike the related work, our method is completely differentiable and requires only a single model training. In our evaluations, we show promising results on six standard benchmarks, yielding novel and unique architectures at a fast speed, i.e. less than 0.2 seconds per architecture. Furthermore, we demonstrate the generalisability and efficiency of our method through experiments on ImageNet dataset.
