@@ -1,4 +1,5 @@
-# DiNAS
+# <center> Multi-conditioned Graph Diffusion for Neural Architecture Search </center>
+Rohan Asthana, Joschua Conrad, Youssef Dawoud, Maurits Ortmanns, Vasileios Belagiannis
 
 This repository contains the code for the paper titled "Multi-conditioned Graph Diffusion for Neural Architecture Search" [\[link\]](https://openreview.net/forum?id=5VotySkajV).
 
@@ -25,6 +26,20 @@ To get started with the DiNAS project, follow these steps:
 1. Clone the repository: `git clone https://github.com/rohanasthana/DiNAS.git`
 2. Load the conda environment 'environment.yml' using the command `conda env create -f environment.yml`
 3. Run the training process: `python main_reg_free.py --dataset nasbench101`
+
+## Cite this paper
+```
+@article{
+asthana2024multiconditioned,
+title={Multi-conditioned Graph Diffusion for Neural Architecture Search},
+author={Rohan Asthana and Joschua Conrad and Youssef Dawoud and Maurits Ortmanns and Vasileios Belagiannis},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=5VotySkajV},
+note={}
+}
+```
 
 
 ## License
