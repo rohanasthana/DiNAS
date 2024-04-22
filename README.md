@@ -27,6 +27,10 @@ To get started with the DiNAS project, follow these steps:
 2. Load the conda environment 'environment.yml' using the command `conda env create -f environment.yml`
 3. Run the training process: `python main_reg_free.py --dataset nasbench101`
 
+## Pre-trained models
+The pre-trained models for the NAS-Bench-101, NAS-Bench-201, NAS-Bench-301 and NAS-Bench-NLP benchmarks can be found in Google Drive:
+https://drive.google.com/drive/folders/1a9CpJDWAe5MMe1hU-JvKf9njhWyUT3yw?usp=sharing
+
 ## Cite this paper
 ```
 @article{
