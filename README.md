@@ -1,4 +1,4 @@
-# <center> Multi-conditioned Graph Diffusion for Neural Architecture Search </center>
+# Multi-conditioned Graph Diffusion for Neural Architecture Search
 Rohan Asthana, Joschua Conrad, Youssef Dawoud, Maurits Ortmanns, Vasileios Belagiannis
 
 This repository contains the code for the paper titled "Multi-conditioned Graph Diffusion for Neural Architecture Search" [\[link\]](https://openreview.net/forum?id=5VotySkajV).
