@@ -29,7 +29,7 @@ To get started with the DiNAS project, follow these steps:
 
 ## Pre-trained models
 The pre-trained models for the NAS-Bench-101, NAS-Bench-201, NAS-Bench-301 and NAS-Bench-NLP benchmarks can be found in Google Drive:
-https://drive.google.com/drive/folders/1a9CpJDWAe5MMe1hU-JvKf9njhWyUT3yw?usp=sharing
+[https://drive.google.com/drive/folders/1a9CpJDWAe5MMe1hU-JvKf9njhWyUT3yw?usp=sharing](https://drive.google.com/drive/u/4/folders/1_Fr1tZYCmvysNe49irHjd25rSnabZYk1)
 
 ## Cite this paper
 ```
