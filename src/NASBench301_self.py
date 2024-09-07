@@ -107,11 +107,11 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     from src.Generator import scores_to_adj, adj_to_scores
-    from src.procedures_darts import TENAS
+    #from src.procedures_darts import TENAS
 
 else:
     from src.Generator import scores_to_adj, adj_to_scores
-    from src.procedures_darts import TENAS
+    #from src.procedures_darts import TENAS
 
 
 OP_PRIMITIVES = [
